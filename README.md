@@ -1,6 +1,6 @@
 ## Border-Radius-Generator
 
-**Tired:** 1-Beginner
+**Tier:** 1-Beginner
 
 Idea from [here](https://github.com/florinpop17/app-ideas)
 
