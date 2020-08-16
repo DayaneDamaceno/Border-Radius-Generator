@@ -1,12 +1,12 @@
 ## Border-Radius-Generator
 
-**Tired:** 1-Beginner
+**Tier:** 1-Beginner
 
 Idea from [here](https://github.com/florinpop17/app-ideas)
 
 ### Description
 
-A aplicação simples e intuitiva permite gerar e vizualizar Border-Radius com o intuito de facilitar na estilização css de forma pratica.
+A aplicação simples e intuitiva permite gerar e visualizar Border-Radius com o intuito de facilitar na estilização css de forma pratica.
 
 ![image](https://user-images.githubusercontent.com/63814261/87235040-e95a7700-c3ad-11ea-83be-03c330ab6127.png)
 
